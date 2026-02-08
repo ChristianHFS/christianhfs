@@ -39,23 +39,15 @@ I am a software developer transitioning my focus into **Data Engineering**. I am
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChristianHFS&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="Christian's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianHFS&layout=compact&theme=nord&hide_border=true" alt="Top Languages" height="180" />
-</p>
-
----
-
 ### 📂 Featured Data Projects
-- **[Project Name 1]**: *Deskripsi singkat proyek ETL atau pengolahan data menggunakan Python/SQL.*
-- **[Project Name 2]**: *Deskripsi singkat optimasi database atau penggunaan tools big data.*
+- **[Retail Customer Transaction Analysis ]**: *Proyek ini berfokus pada analisis mendalam terhadap data transaksi pelanggan ritel. Tujuannya adalah untuk mengungkap pola belanja, segmentasi pelanggan, dan memberikan insight strategis untuk meningkatkan performa bisnis ritel melalui pendekatan berbasis data.*
+- **[Analisis Harga Pangan Global 2025 ]**: *Proyek ini berfokus pada pembangunan sistem End-to-End Data untuk menganalisis dinamika harga komoditas pangan global pada tahun 2025, mengintegrasikan data ekonomi (GDP), dan menyediakan wawasan berbasis data untuk pengambilan keputusan strategis.*
 
 ---
 
-### 📫 Let's Connect!
-- **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- **Email:** [christianhfs@example.com](mailto:christianhfs@example.com)
+### 📫 Let's Connect! 
+- **LinkedIn:** [linkedin.com/in/christian-herbert-fritz-6605371b8/](https://www.linkedin.com/in/christian-herbert-fritz-6605371b8/)
+- **Email:** [christianherbert55@gmail.com](mailto:christianherbert55@gmail.com)
 
 ---
 
