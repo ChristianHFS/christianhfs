@@ -45,6 +45,11 @@ I am a software developer transitioning my focus into **Data Engineering**. I am
 
 ---
 
+### 📊 Stats
+![Stats Christian](https://github-readme-stats.vercel.app/api?username=ChristianHFS&show_icons=true&theme=tokyonight)
+
+---
+
 ### 📫 Let's Connect! 
 - **LinkedIn:** [linkedin.com/in/christian-herbert-fritz-6605371b8/](https://www.linkedin.com/in/christian-herbert-fritz-6605371b8/)
 - **Email:** [christianherbert55@gmail.com](mailto:christianherbert55@gmail.com)
