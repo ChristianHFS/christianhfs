@@ -33,15 +33,6 @@ I am a software developer transitioning into **Data Engineering**. I am passiona
     * *Tech*: ETL Pipelines, Data Integration, Data-driven Strategic Insights.
 
 ---
-
-### 📊 GitHub Activity
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChristianHFS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianHFS&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
----
-
 ### 📫 Let's Connect! 
 - **LinkedIn:** [Christian Herbert Fritz](https://www.linkedin.com/in/christian-herbert-fritz-6605371b8/)
 - **Email:** [christianherbert55@gmail.com](mailto:christianherbert55@gmail.com)
