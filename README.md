@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm Christian! 👋 
+# I'm Christian!
 ### Aspiring Data Engineer | Data Infrastructure Enthusiast | Problem Solver
 
 I am a software developer transitioning my focus into **Data Engineering**. I am passionate about building scalable data architectures, optimizing ETL processes, and ensuring data integrity to drive informed decision-making.
